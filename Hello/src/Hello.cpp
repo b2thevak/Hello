@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
 	cout << "Lab5hjhjhgh" << endl; // prints Lab5
-	cout << "Goodluck on the mddfidterm" << endl;
+	cout << "Goodljjjjuck on the mddfidterm" << endl;
 	cout << "hey";
 	return 0;
 }
